@@ -32,3 +32,9 @@ Run commands on python terminal or anaconda terimial or any terminal you are usi
 * Run `streamlit run app.py`.
 * The app will be up and running at the following URL `http://localhost:8501/`
 * Now explore the app
+
+### Deployed Version
+
+* The app is deployed using heroku: `sandp500-stock-data.herokuapp.com/`
+
+Hope you like this project !!! 
