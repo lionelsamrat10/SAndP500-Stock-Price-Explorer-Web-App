@@ -35,6 +35,6 @@ Run commands on python terminal or anaconda terimial or any terminal you are usi
 
 ### Deployed Version
 
-* The app is deployed using heroku: `sandp500-stock-data.herokuapp.com/`
+* The app is deployed using heroku: [Click here](sandp500-stock-data.herokuapp.com/)
 
 Hope you like this project !!! 
