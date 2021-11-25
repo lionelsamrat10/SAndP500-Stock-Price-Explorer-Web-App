@@ -10,6 +10,7 @@ A real time deployed web application that is built using data, scraped from Wiki
 * `Pandas`
 * `base64`
 * `YFinance (For getting Stock data of the companies)`
+* `Deployed the app in Heroku`
 
 ## Preview
 ![S&P-01|635x380](Screenshots/S&P-01.PNG)
